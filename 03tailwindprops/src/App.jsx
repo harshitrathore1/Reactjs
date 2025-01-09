@@ -19,7 +19,6 @@ function App() {
       <Card username="Harshit" btnText="click-me"/>
       <Card username="Rathore" btnText="visit-me"/>
       
-
     </>
   )
 }
