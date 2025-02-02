@@ -43,7 +43,6 @@ const routerWeMade = createBrowserRouter(
       <Route path='/contact' element={<Contact/>}/>
       <Route path='user/:userid' element={<User/>}/>
       <Route path='github' element={<Github/>}/>
-
     </Route>
   )
 )
